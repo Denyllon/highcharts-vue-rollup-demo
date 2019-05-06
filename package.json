@@ -1,13 +1,17 @@
 {
-  "name": "vuerollup",
+  "name": "highcharts-vue-rollup-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demo which shows how to use highcharts-vue wrapper with Rollup.js.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Denyllon/highcharts-vue-rollup-demo.git"
+  },
   "dependencies": {
     "highcharts": "^7.1.1",
     "highcharts-vue": "^1.2.0",
