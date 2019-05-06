@@ -4,4 +4,4 @@ This demo shows the example usage of [highcharts-vue](https://github.com/highcha
 ### Steps to run
 - download repository
 - open a repo directory and do `npm i`
-- run  `index.html` on browser
+- run `npm run serve` and open `localhost:8080` in your browser

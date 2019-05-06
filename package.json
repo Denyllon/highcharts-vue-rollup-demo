@@ -4,7 +4,8 @@
   "description": "Demo which shows how to use highcharts-vue wrapper with Rollup.js.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server -c-1"
   },
   "author": "",
   "license": "ISC",
@@ -15,6 +16,7 @@
   "dependencies": {
     "highcharts": "^7.1.1",
     "highcharts-vue": "^1.2.0",
+    "http-server": "^0.11.1",
     "minimist": "^1.2.0",
     "rollup": "^1.11.3",
     "rollup-plugin-commonjs": "^9.3.4",
